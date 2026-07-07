@@ -177,8 +177,7 @@ This project strengthened my understanding of Java application development and e
 
 <img width="984" height="727" alt="guessing game interface" src="https://github.com/user-attachments/assets/933c421b-aea0-45c1-b0a6-bdfeea2351b7" />
 
-<img width="466" height="480" alt="win dialog" src="https://github.com/user-attachments/assets/eae5d5ff-b0b1-4097-99e6-0e43acb0d45b" />
-<img width="421" height="102" alt="high" src="https://github.com/user-attachments/assets/b2f737c5-ec4a-4d7a-b3ea-d2eecdc2eb8c" />
+<img width="466" height="480" alt="win dialog" src="https://github.com/user-attachments/assets/eae5d5ff-b0b1-4097-99e6-0e43acb0d45b" /><img width="421" height="102" alt="high" src="https://github.com/user-attachments/assets/b2f737c5-ec4a-4d7a-b3ea-d2eecdc2eb8c" />
 
 ## Hints
 
