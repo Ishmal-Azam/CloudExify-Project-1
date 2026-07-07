@@ -71,9 +71,9 @@ This project was developed as part of my **Java Internship Project** to demonstr
 ### File Handling
 
 The application stores the player's best score in:
-
+```
 bestscore.txt
-
+```
 When the game starts, the previous best score is automatically loaded.
 
 # Game Logic
