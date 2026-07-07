@@ -182,7 +182,7 @@ This project strengthened my understanding of Java application development and e
 <img width="421" height="102" alt="high" src="https://github.com/user-attachments/assets/b2f737c5-ec4a-4d7a-b3ea-d2eecdc2eb8c" />
 
 ## Hints
-```
+
 ```
 <img width="335" height="104" alt="low" src="https://github.com/user-attachments/assets/ce31a4cf-45a9-41d3-8c7e-e4c8e61c0129" />
 
