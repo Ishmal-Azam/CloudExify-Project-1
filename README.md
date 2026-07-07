@@ -17,6 +17,57 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - Implement file handling to store the best score.
 - Improve user experience with modern dialogs and hint systems.
 
+# How to Run the Project!
+
+### Prerequisites
+
+Before running the project, make sure you have:
+
+- Java Development Kit (JDK 17 or later) installed
+- Visual Studio Code (or any Java IDE)
+- Java Extension Pack for VS Code (recommended)
+
+### Steps to Run
+
+1. Clone or download this repository.
+
+2. Open the project folder in Visual Studio Code.
+
+3. Ensure the following files are present:
+
+```
+NumberGuessingGame/
+│── NumberGuessingGame.java
+│── bestscore.txt
+│── trophy.png (optional)
+│── README.md
+```
+
+4. Compile the Java file:
+
+```bash
+javac NumberGuessingGame.java
+```
+
+5. Run the application:
+
+```bash
+java NumberGuessingGame
+```
+
+6. The Number Guessing Game window will open.
+
+### How to Play
+
+- Select a difficulty level:
+  - **Easy:** Guess a number between **1–50**
+  - **Hard:** Guess a number between **1–200**
+- Enter your guess and click **Guess** (or press **Enter**, if supported).
+- Use the hints (**Too High**, **Too Low**, **Warmer**, **Colder**) to find the correct number.
+- You have a maximum of **10 attempts**.
+- If you guess correctly, a **Congratulations** dialog will appear.
+- If all attempts are used, the **Game Over** dialog will show the correct number and allow you to play again.
+
 # Technologies Used
 
 - Java
