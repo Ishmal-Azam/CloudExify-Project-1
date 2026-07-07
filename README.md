@@ -8,8 +8,6 @@ The **Number Guessing Game** is a desktop application developed in **Java** usin
 
 This project was developed as part of my **Java Internship Project** to demonstrate object-oriented programming concepts, event-driven programming, GUI development, and file handling in Java.
 
----
-
 # Objectives
 
 - Develop a fully functional Java Swing application.
@@ -19,8 +17,6 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - Implement file handling to store the best score.
 - Improve user experience with modern dialogs and hint systems.
 
----
-
 # Technologies Used
 
 - Java
@@ -29,8 +25,6 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - Object-Oriented Programming (OOP)
 - File Handling
 - VS Code
-
----
 
 # Features
 
@@ -46,8 +40,6 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - New Game option
 - Automatic reset when difficulty changes
 
----
-
 ### User Interface
 
 - Modern blue & white theme
@@ -58,8 +50,6 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - Best Score panel
 - Attempts counter
 
----
-
 ### Winning Screen
 
 - Custom Congratulations dialog
@@ -68,8 +58,6 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - Best score display
 - Play Again button
 - Modern UI design
-
----
 
 ### Game Over Screen
 
@@ -80,19 +68,13 @@ This project was developed as part of my **Java Internship Project** to demonstr
 - Play Again button
 - Exit button
 
----
-
 ### File Handling
 
 The application stores the player's best score in:
 
-```
-**bestscore.txt**
-```
+bestscore.txt
 
 When the game starts, the previous best score is automatically loaded.
-
----
 
 # Game Logic
 
@@ -114,8 +96,6 @@ When the game starts, the previous best score is automatically loaded.
    - Show Game Over dialog.
 10. Player can start a new game anytime.
 
----
-
 # Project Structure
 
 ```
@@ -126,8 +106,6 @@ NumberGuessingGame/
 ├── README.md
 └── trophy.png (optional)
 ```
-
----
 
 # Java Concepts Used
 
@@ -143,8 +121,6 @@ NumberGuessingGame/
 - Layout Managers
 - File Input/Output
 
----
-
 # Swing Components Used
 
 - JFrame
@@ -158,8 +134,6 @@ NumberGuessingGame/
 - BorderLayout
 - Graphics2D
 
----
-
 # Learning Outcomes
 
 During this project, I learned how to:
@@ -172,8 +146,6 @@ During this project, I learned how to:
 - Organize code into reusable methods.
 - Create custom dialogs for a better user experience.
 
----
-
 # Future Improvements
 
 - Add sound effects.
@@ -185,15 +157,11 @@ During this project, I learned how to:
 - Add multiple themes.
 - Add statistics dashboard.
 
----
-
 # Conclusion
 
 The **Number Guessing Game** successfully demonstrates the practical implementation of Java programming concepts, including GUI development, event handling, object-oriented programming, and file management. The project provides an engaging user experience with modern interface elements, custom dialogs, difficulty levels, and score tracking.
 
 This project strengthened my understanding of Java application development and enhanced my problem-solving and software design skills. It also reflects my ability to develop complete desktop applications using Java Swing.
-
----
 
 ## Developed By
 
